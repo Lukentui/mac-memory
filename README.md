@@ -8,5 +8,10 @@ import macMemory from 'mac-memory-ts'
 
 (async () => {
     console.info(await macMemory())
+    // {
+    //    usedPercent: 83.75, -> percent
+    //    used: 28778336256,  -> bytes
+    //    total: 34359738368  -> bytes
+    // }
 })()
 ```
