@@ -1,6 +1,6 @@
 {
   "name": "mac-memory-ts",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "get memory total and used from MacOS using vm_stat",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
