@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/bhurlow/mac-memory/issues"
   },
-  "homepage": "https://github.com/bhurlow/mac-memory#readme"
+  "homepage": "https://github.com/bhurlow/mac-memory#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.2"
+  }
 }
